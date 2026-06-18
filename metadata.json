@@ -1,0 +1,10 @@
+{
+  "name": "AI Assistant and Automation Hub",
+  "description": "Эпическая 2D военно-морская аркадная игра. Управляйте кораблями, подводными лодками и самолетами, сражайтесь с боссами и открывайте легендарные скины!",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
